@@ -26,4 +26,13 @@ I had an older version of python setup and proceeded to download the latest vers
 ### Task 6 - MySql
 Following the Phoenixnap tutorial of MySql installation on windows and proceeded to select the full installation for mysql and ended up installing
 workbench,command-line utility,server and shell
+
 <img src="./assets/images/Screenshot (12).jpg" width="500">
+
+### Task 7 - Other Development setups
+Other softwares like dart and flutter were added to path
+
+<p float="left">
+<img src="./assets/images/Screenshot (13).jpg" width="400">
+<img src="./assets/images/Screenshot (14).jpg" width="400">
+</p>
