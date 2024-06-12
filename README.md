@@ -18,7 +18,12 @@ As mentioned before, I have done some development work and git and git bash have
   </tr>
 </table>
 
-### Task 4 - Python setup
+### Task 4 and 5- Python setup
 I had an older version of python setup and proceeded to download the latest version 3.12 from the official windows store as indicated alongside packages like pip and virtualenv.
 
 <img src="./assets/images/Screenshot (11).jpg" width="600" >
+
+### Task 6 - MySql
+Following the Phoenixnap tutorial of MySql installation on windows and proceeded to select the full installation for mysql and ended up installing
+workbench,command-line utility,server and shell
+<img src="./assets/images/Screenshot (12).jpg" width="500">
