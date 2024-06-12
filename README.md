@@ -19,7 +19,7 @@ As mentioned before, I have done some development work and git and git bash have
 </table>
 
 ### Task 4 and 5- Python setup
-I had an older version of python setup and proceeded to download the latest version 3.12 from the official windows store as indicated alongside packages like pip and virtualenv.
+I had an older version of python setup and proceeded to download the latest version 3.12 from the official [python](python.org) website as indicated alongside packages like pip and virtualenv.
 
 <img src="./assets/images/Screenshot (11).jpg" width="600" >
 
@@ -33,6 +33,14 @@ workbench,command-line utility,server and shell
 Other softwares like dart and flutter were added to path
 
 <p float="left">
-<img src="./assets/images/Screenshot (13).jpg" width="400">
-<img src="./assets/images/Screenshot (14).jpg" width="400">
+<img src="./assets/images/Screenshot (13).jpg" width="350">
+<img src="./assets/images/Screenshot (14).jpg" width="350">
 </p>
+
+### Task 8 - Extensions
+The Vs code extensions installed alongside the softwares on my machine include the following.
+<img src="./assets/images/Screenshot (15).jpg">
+
+
+### Reflection and challenges
+My setup was generally smooth and I faced very few challenges in my setup.Having previous experiences installing and maintaining software have kept me in good stead for the program so far.
