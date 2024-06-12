@@ -17,3 +17,8 @@ As mentioned before, I have done some development work and git and git bash have
     <td><img src="./assets/images/Screenshot (10).jpg" alt="Screenshot 10" width="600"></td>
   </tr>
 </table>
+
+### Task 4 - Python setup
+I had an older version of python setup and proceeded to download the latest version 3.12 from the official windows store as indicated alongside packages like pip and virtualenv.
+
+<img src="./assets/images/Screenshot (11).jpg" width="600" >
